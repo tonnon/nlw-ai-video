@@ -1,7 +1,9 @@
+import { Button } from "./components/ui/button";
+
 export function App() {
 
   return (
-    <h1>opa</h1>
+    <Button>opa</Button>
   )
 }
 
